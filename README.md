@@ -9,7 +9,7 @@
 </p>
 
 For more details, please read the accompanying blog post:
-[placeholder](placeholder)
+[https://knifecoat.com/Posts/Scalable+research+tooling+for+agent+systems](https://knifecoat.com/Posts/Scalable+research+tooling+for+agent+systems)
 
 <p clear="left" align="center">
   <br><img src="kahlo-02.svg" alt="Kahlo Architecture Diagram" width="800" />

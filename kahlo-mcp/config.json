@@ -1,0 +1,7 @@
+{
+  "transport": "stdio",
+  "logLevel": "info",
+  "dataDir": "./data",
+  "adbPath": "C:\\Your\\Full\\Path\\adb.exe"
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "kahlo-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "kahlo MCP server (host harness API façade) — Phase 0 skeleton",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc -p tsconfig.json && node scripts/copy-orchestrator-agent.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.25.2",
+    "frida": "^17.6.0",
+    "frida-java-bridge": "^7.0.11",
+    "pako": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.9",
+    "@types/pako": "^2.0.4",
+    "frida-compile": "^19.0.4",
+    "tsx": "4.21.0",
+    "typescript": "5.9.3"
+  }
+}

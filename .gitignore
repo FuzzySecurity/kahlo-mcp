@@ -1,0 +1,17 @@
+# Claude Code
+.claude/
+
+# Node
+kahlo-mcp/node_modules/
+
+# Build output
+kahlo-mcp/dist/
+
+# Runtime data
+kahlo-mcp/data/*
+!kahlo-mcp/data/.gitkeep
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

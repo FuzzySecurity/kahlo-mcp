@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "kahlo MCP server (host harness API façade) — Phase 0 skeleton",
+  "description": "kahlo, a Frida MCP server for autonomous Android research",
   "scripts": {
     "start": "tsx src/index.ts",
     "build": "tsc -p tsconfig.json && node scripts/copy-orchestrator-agent.mjs"
